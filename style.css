@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(rgb(228, 235, 135),rgb(205, 50, 50));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    border: 20px;
+    border-radius: 10px;
+    border-color: rgb(170, 0, 255);
+    border-style: outset;
+    padding: 30px;
+}
+p{
+    border: 5px;
+    border-radius: 10px;
+    border-color: gold;
+    border-style: outset;
+    padding: 10px;
+}
+form{
+    border: 10px;
+    border-radius: 10px;
+    border-color: rgb(252, 3, 3);
+    border-style: outset;
+    padding: 10px;
+}
+table{
+    border: 10px;
+    border-radius: 10px;
+    border-color: rgb(46, 10, 227);
+    border-style: outset;
+    padding: 20px;
+}

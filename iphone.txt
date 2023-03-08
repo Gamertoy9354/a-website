@@ -1,0 +1,15 @@
+<table border="2" cellspacing="0" cellpadding="2">
+            <tr>
+                <th align="center"><img src="C:\Users\shis mehta\OneDrive\Desktop\BIgest Project Of HTML\img's\iphone13 pro max.jfif"><br>
+                    iphone13 Pro {1tb}.
+                </th>
+
+            </tr>
+        </table>
+
+
+
+
+
+
+<a href="iphone13 Pro {1tb}.html"><img src="iphone13 pro max.jfif"></a>
